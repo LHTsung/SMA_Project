@@ -1,0 +1,12 @@
+cybertruck 500
+model x 500
+model y 500
+model s 500
+model 3 500
+Model x 500
+Model y 500
+Model s 500
+Model 3 500
+Model X 500
+Model Y 500
+Model S 500
